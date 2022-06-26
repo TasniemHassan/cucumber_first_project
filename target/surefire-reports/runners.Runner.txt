@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runners.Runner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.038 s <<< FAILURE! - in runners.Runner
+initializationError(runners.Runner)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.IllegalArgumentException: Not a file or directory: /Users/tasniemhassan/IdeaProjects/cucumber_first_project/—tags
+
